@@ -95,7 +95,7 @@ function Videos() {
               className="col-md-12 d-flex justify-content-center align-items-center"
               style={{ flexDirection: "column" }}
             >
-              <div className="h2 section-heading">Your Video Feed</div>
+              <div className="h2 section-heading">Give Your Feedback/Suggetions</div>
               <div className="col-lg-4 divider my-2" />
               <div className="text-center normal-text">
                 Browse through the ISL videos created by others and shared with
