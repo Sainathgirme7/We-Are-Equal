@@ -1,8 +1,8 @@
 # Use the official Node.js image as the base image
-FROM node:18-alpine
+FROM node:20.16.0-alpine
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /
 
 # Install dependencies
 COPY package.json package-lock.json ./
