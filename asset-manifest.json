@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/We-Are-Equal/static/css/main.d997a7fd.css",
+    "main.js": "/We-Are-Equal/static/js/main.3523b3d4.js",
+    "static/js/453.da9179f9.chunk.js": "/We-Are-Equal/static/js/453.da9179f9.chunk.js",
+    "static/media/xbot.glb": "/We-Are-Equal/static/media/xbot.2cabbc59a4305ae3aa86.glb",
+    "static/media/ybot.glb": "/We-Are-Equal/static/media/ybot.a2f7ba5b364cbcfdc39b.glb",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/We-Are-Equal/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ybot.png": "/We-Are-Equal/static/media/ybot.589f71845d3d36089116.png",
+    "static/media/xbot.png": "/We-Are-Equal/static/media/xbot.02b9f09431cb8a55bfae.png",
+    "static/media/fontawesome-webfont.eot": "/We-Are-Equal/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/We-Are-Equal/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/We-Are-Equal/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/We-Are-Equal/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/videos.png": "/We-Are-Equal/static/media/videos.7672d4fe7fa107d31931.png",
+    "static/media/convert.png": "/We-Are-Equal/static/media/convert.d6a6f8d10af95304032a.png",
+    "static/media/learn-sign.jpg": "/We-Are-Equal/static/media/learn-sign.f97484cc2c54fa02b568.jpg",
+    "index.html": "/We-Are-Equal/index.html",
+    "main.d997a7fd.css.map": "/We-Are-Equal/static/css/main.d997a7fd.css.map",
+    "main.3523b3d4.js.map": "/We-Are-Equal/static/js/main.3523b3d4.js.map",
+    "453.da9179f9.chunk.js.map": "/We-Are-Equal/static/js/453.da9179f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d997a7fd.css",
+    "static/js/main.3523b3d4.js"
+  ]
+}
