@@ -1,5 +1,9 @@
 # Use the official Node.js image as the base image
+<<<<<<< HEAD
 FROM node:20.16.0-alpine
+=======
+FROM node:-alpine
+>>>>>>> 3d67a23bfaddac512f8c042f443f0b3cd02632a3
 
 # Set the working directory
 WORKDIR /
